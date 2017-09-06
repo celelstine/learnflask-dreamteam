@@ -1,5 +1,6 @@
 # app/__init__.py
 
+import os
 # third-party imports
 from flask import Flask
 from flask_bootstrap import Bootstrap
